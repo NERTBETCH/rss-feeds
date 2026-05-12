@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rare Sale: Jinn Lamp!</title>
+      <link>https://origins.habbo.com/community/article/4371/rare-sale-jinn-lamp</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4371/rare-sale-jinn-lamp</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>Rare Sale: Jinn Lamp!</description>
+    </item>
     <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4369/this-weeks-events-18</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4323/bobecs-fishing-derby-palooza</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <description>Bobec’s Fishing Derby Palooza</description>
-    </item>
-    <item>
-      <title>Shutter Showdown Is Live!</title>
-      <link>https://origins.habbo.com/community/article/4331/shutter-showdown-is-live</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4331/shutter-showdown-is-live</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Shutter Showdown Is Live!</description>
     </item>
   </channel>
 </rss>
